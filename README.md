@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yashpalkhandal
+- 👋 Hi, I’m @Yashpalkhandal, presently working as an Energy Analyst@Consulting Company@ Mumbai
 - 👀 I’m interested in Full Stack Web Development, Blockchain Projects
 - 🌱 I’m currently learning Front End, Backend, Solona
 - 💞️ I’m looking to collaborate on Blockchain Projects
